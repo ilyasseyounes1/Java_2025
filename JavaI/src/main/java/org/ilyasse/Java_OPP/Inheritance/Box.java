@@ -79,7 +79,7 @@ class BoxWeight extends Box {
 
 // Child Class: BoxColor (Extends BoxWeight → Multilevel Inheritance)
 class BoxColor extends BoxWeight {
-    String color; // Additional property specific to BoxColor.
+    String color; //  Additional property specific to BoxColor.
 
     // Default Constructor
     BoxColor() {
