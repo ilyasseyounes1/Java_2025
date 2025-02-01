@@ -2,7 +2,7 @@ package org.ilyasse.Java_OPP.Dynamic_Method_Dispatch;
 
 // Parent class
 class Parent {
-    // Method to be overridden
+    // Method to be  overridden
     void show() {
         System.out.println("Parent's show() method");
     }
